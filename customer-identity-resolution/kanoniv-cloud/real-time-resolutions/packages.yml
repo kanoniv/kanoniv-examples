@@ -1,3 +1,0 @@
-packages:
-  - git: "https://github.com/kanoniv/dbt-kanoniv.git"
-    revision: v0.1.0
